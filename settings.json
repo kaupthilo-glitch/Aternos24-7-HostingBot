@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "swissmcserver.aternos.me",
+    "port": 18268,
     "version": "",
     "try-creative": false
   },
